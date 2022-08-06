@@ -12,14 +12,13 @@ Can be used at any time.
 
 - Increased Stamina + Health
 - Increased Stamina + Health Regeneration
-- +10% Damage Dealt
 
 **Poems To Unlock**
 - Brother's Poem
 - Captain's Poem
 - King's Poem
 
-## Poem of Hope
+## Poem of ...
 
 **Usage Critera**
 
@@ -29,7 +28,7 @@ Can be used at any time.
 
 ...
 
-## Poem of Victory
+## Poem of ...
 
 **Usage Criteria**
 
@@ -44,9 +43,11 @@ Can be used at any time.
 **Usage Criteria**
 
 Can be used when your health falls below 25%
+Can be used once (1) per day
 
 **Effects**
 
+- Heals you + allies 50% of maximum health
 - -75% Damage Taken
 - +25% Damage Dealt
 
