@@ -31,19 +31,27 @@ Adds 4 powers in Skyrim unlocked by finding the Poems associated with them. The 
 - Immunity to Disease & Poison
 
 **Poems To Unlock**
-- The Housecarl's Poem
 - Skardan's Poem (Skardan Free-Winter)
+- Martin's Poem (Martin Septim)
 - Tsun's Poem
 
-## Poem of Vengeance
+## Poem of War
 
 **Usage Criteria**
 
-...
+- Can be used once (1) per day
 
 **Effects**
 
-- 
+- Reduces enemies maximum health
+- Drains 5 points of stamina from enemies
+- Instill fears in weaker enemies
+
+**Poems To Unlock**
+
+- Steel's Poem
+- Blood's Poem
+- Death's Poem
 
 ## Poem of Last Stand
 
