@@ -28,7 +28,7 @@ Adds 4 powers in Skyrim unlocked by finding the Poems associated with them. The 
 
 - +25% Magic Resistance
 - +25% Effective Block
-- Immunity to Disease
+- Immunity to Disease & Poison
 
 **Poems To Unlock**
 - The Housecarl's Poem
