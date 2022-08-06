@@ -6,7 +6,7 @@ Adds 4 powers in Skyrim unlocked by finding the Poems associated with them. The 
 
 **Usage Critera**
 
-Can be used at any time.
+- Can be used at any time.
 
 **Effects**
 
@@ -22,7 +22,7 @@ Can be used at any time.
 
 **Usage Critera**
 
-Can be used once (1) per day
+- Can be used once (1) per day
 
 **Effects**
 
@@ -50,8 +50,8 @@ Can be used once (1) per day
 
 **Usage Criteria**
 
-Can be used when your health falls below 25%
-Can be used once (1) per day
+- Can be used when your health falls below 25%
+- Can be used once (1) per day
 
 **Effects**
 
