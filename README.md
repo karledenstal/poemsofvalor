@@ -18,15 +18,23 @@ Can be used at any time.
 - Captain's Poem
 - King's Poem
 
-## Poem of ...
+## Poem of Protection
 
 **Usage Critera**
 
-...
+Can be used once (1) per day
 
 **Effects**
 
-...
+- -25% Damage Taken
+- +25% Magic Resistance
+- +25% Effective Block
+- Immunity to Disease
+
+**Poems To Unlock**
+- The Housecarl's Poem
+- Skardan's Poem (Skardan Free-Winter)
+- Tsun's Poem
 
 ## Poem of ...
 
@@ -47,9 +55,9 @@ Can be used once (1) per day
 
 **Effects**
 
-- Heals you + allies 50% of maximum health
-- -75% Damage Taken
 - +25% Damage Dealt
+- Heals you + allies 50% of maximum health
+- Unable to be defeated
 
 **Poems To Unlock**
 - Olaf's Poem
