@@ -35,7 +35,7 @@ Adds 4 powers in Skyrim unlocked by finding the Poems associated with them. The 
 - Skardan's Poem (Skardan Free-Winter)
 - Tsun's Poem
 
-## Poem of ...
+## Poem of Vengeance
 
 **Usage Criteria**
 
@@ -43,7 +43,7 @@ Adds 4 powers in Skyrim unlocked by finding the Poems associated with them. The 
 
 **Effects**
 
-...
+- 
 
 ## Poem of Last Stand
 
