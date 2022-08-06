@@ -12,6 +12,7 @@ Can be used at any time.
 
 - Increased Stamina + Health
 - Increased Stamina + Health Regeneration
+- +10% Damage Dealt
 
 **Poems To Unlock**
 - Brother's Poem
@@ -20,17 +21,23 @@ Can be used at any time.
 
 ## Poem of Hope
 
+**Usage Critera**
+
+...
+
+**Effects**
+
+...
 
 ## Poem of Victory
 
 **Usage Criteria**
 
-Can be used at any time.
+...
 
 **Effects**
 
-- Power attacks cost less Stamina
-- Spells cost less Magicka
+...
 
 ## Poem of Last Stand
 
@@ -42,4 +49,8 @@ Can be used when your health falls below 25%
 
 - -75% Damage Taken
 - +25% Damage Dealt
-- 
+
+**Poems To Unlock**
+- Olaf's Poem
+- Numinex's Poem
+- Svaknir's Poem
