@@ -26,7 +26,6 @@ Adds 4 powers in Skyrim unlocked by finding the Poems associated with them. The 
 
 **Effects**
 
-- -25% Damage Taken
 - +25% Magic Resistance
 - +25% Effective Block
 - Immunity to Disease
